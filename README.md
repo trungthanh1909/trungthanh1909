@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b3a&height=200&section=header&text=Nguy%E1%BB%85n%20Tr%E1%BA%A7n%20Trung%20Th%C3%A0nh&fontSize=36&fontColor=c9d1d9&fontAlignY=30&desc=Software%20Engineering%20%C2%B7%20AI%20%26%20Backend&descSize=16&descAlignY=52&descColor=58a6ff&animation=fadeIn" width="100%" alt="Header" />
-</h1>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Nguyễn Trần Trung Thành" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&lines=Building+reliable+systems+for+real-world+problems;Software+Engineering+%C2%B7+AI+%26+Backend;B.S.+Computer+Science+%E2%80%94+Troy+University+%C2%B7+Joint+Program+with+HUST;Hanoi%2C+Vietnam" alt="Typing SVG" />
@@ -97,14 +97,6 @@ Personal engineering portfolio built with Next.js, React, TypeScript, and Tailwi
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungthanh1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-</div>
-
-<br/>
-
 ## 🔗 Connect
 
 <div align="center">
@@ -116,7 +108,3 @@ Personal engineering portfolio built with Next.js, React, TypeScript, and Tailwi
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub" />
   </a>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b3a,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
