@@ -34,6 +34,8 @@ location: Hanoi, Vietnam
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
+**Role:** Primary Engineer · Personal Project
+
 Backend foundation for an AI-assisted sales workflow under active development, connecting messaging ingress, inventory data, deterministic review workflows, and human handoff through a Java/Spring Boot backend.
 
 ---
@@ -49,7 +51,9 @@ Backend foundation for an AI-assisted sales workflow under active development, c
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-Machine learning service for personalized fitness and nutrition guidance. Combines XGBoost and Random Forest health-metric prediction with workout and meal recommendation flows, exposed through FastAPI REST APIs and containerized with Docker.
+**Role:** Research & Technical Documentation · Team Coursework
+
+Team coursework project exploring machine-learning-based health prediction and personalized fitness/nutrition recommendation. The team system leverages Python, FastAPI, XGBoost, Random Forest, scikit-learn, and Docker, while my contribution focused on research, technical analysis, system documentation, and reporting.
 
 ---
 
@@ -68,7 +72,9 @@ Machine learning service for personalized fitness and nutrition guidance. Combin
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-Java/Spring microservices platform spanning 15 service modules with a React/TypeScript frontend, organizing domain services including API gateway routing, service discovery, and modular catalog management.
+**Role:** Frontend Lead · Team Coursework
+
+Led frontend development for a React/TypeScript book-reading platform integrated with a Java/Spring microservices backend. The team system spans multiple service modules for authentication, content, discovery, user activity, and related platform capabilities.
 
 ---
 
@@ -82,6 +88,8 @@ Java/Spring microservices platform spanning 15 service modules with a React/Type
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+**Role:** Designer & Developer · Personal Project
 
 Personal engineering portfolio built with Next.js, React, TypeScript, and Tailwind CSS. Documents verified project scopes, architectural decisions, and technical non-claims in an editorial notebook layout.
 
