@@ -108,7 +108,7 @@ Personal engineering portfolio built with Next.js, React, TypeScript, and Tailwi
 ## 🔗 Connect
 
 <div align="center">
-  <a href="https://github.com/trungthanh1909/portfolio">
+  <a href="https://trungthanh.dev">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Portfolio" />
   </a>
   &nbsp;
